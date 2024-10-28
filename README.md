@@ -8,8 +8,6 @@ A Python-based Color Detection App that identifies the color name of a pixel in 
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [CSV File Format](#csv-file-format)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **Detect RGB Values**: Displays the RGB values of the pixel you click on.
@@ -27,7 +25,7 @@ A Python-based Color Detection App that identifies the color name of a pixel in 
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Image-Colour-Identifier.git
+   git clone https://github.com/AadityaPanda/Image-Colour-Identifier.git
    ```
 2. Install the required packages:
    ```bash
